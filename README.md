@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Davyd.I am from Ukraine.Fullstack Python Software Engineer
+I am Davyd.I am from Ukraine.Python Software Engineer
 
 
 ## 🌐 Socials:
