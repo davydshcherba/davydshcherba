@@ -341,3 +341,88 @@ nav a:hover {
         padding: 60px 40px;
     }
 }
+
+.Technologies {
+    min-height: 100vh;
+    padding: 80px;
+    background-color: #000;
+    position: relative;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 30px;
+}
+
+.Technologies::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: 
+        linear-gradient(rgba(255, 255, 255, 0.03) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255, 255, 255, 0.03) 1px, transparent 1px);
+    background-size: 50px 50px;
+    z-index: 1;
+}
+
+.Technologies > div {
+    position: relative;
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 30px 20px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 12px;
+    background-color: rgba(255, 255, 255, 0.02);
+    transition: all 0.3s;
+    cursor: pointer;
+}
+
+.Technologies > div:hover {
+    transform: translateY(-10px);
+    border-color: rgba(255, 255, 255, 0.2);
+    background-color: rgba(255, 255, 255, 0.05);
+    box-shadow: 0 10px 30px rgba(100, 100, 255, 0.15);
+}
+
+.Technologies > div svg {
+    width: 80px;
+    height: 80px;
+    margin-bottom: 20px;
+    transition: transform 0.3s;
+}
+
+.Technologies > div:hover svg {
+    transform: scale(1.1);
+}
+
+.Technologies > div h2 {
+    font-size: 18px;
+    font-weight: 600;
+    text-align: center;
+    color: aliceblue;
+}
+
+@media (max-width: 1024px) {
+    .Technologies {
+        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+        gap: 20px;
+        padding: 60px 40px;
+    }
+    
+    .Technologies > div svg {
+        width: 60px;
+        height: 60px;
+    }
+}
+
+@media (max-width: 768px) {
+    .Technologies {
+        grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+        gap: 15px;
+        padding: 40px 20px;
+    }
+}
