@@ -1,16 +1,1 @@
-![ Hi, my name is Davyd Shcherba](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-
-![Profile views](https://komarev.com/ghpvc/?username=davydshcherba&label=Profile%20views&color=0e75b6&style=flat)
-
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-                         Hi, my name is Davyd Shcherba
-      </h1>
-    </summary>
-  </ul>
-</div>
-
-<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;"><img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="36" alt="PostgreSQL" style="margin-right: 12px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="36" alt="MySQL" style="margin-right: 12px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python" style="margin-right: 12px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" style="margin-right: 12px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript" style="margin-right: 12px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" height="36" alt="Nginx" style="margin-right: 12px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React" style="margin-right: 12px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="36" alt="Tailwind CSS" style="margin-right: 12px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="HTML5" style="margin-right: 12px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="CSS3" style="margin-right: 12px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="36" alt="Vite" style="margin-right: 12px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="36" alt="FastAPI" style="margin-right: 12px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="36" alt="Django" style="margin-right: 12px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" alt="PostgreSQL" style="margin-right: 12px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="MySQL" style="margin-right: 12px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36" alt="MongoDB" style="margin-right: 12px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="Docker" style="margin-right: 12px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git" style="margin-right: 12px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="36" alt="VSCode" style="margin-right: 12px"></div>
 
